@@ -23,9 +23,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"viewDidload");
-	
-	//self.myStatuses = [[NSArray alloc] init]; 
-
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
 }
@@ -186,6 +183,8 @@
 #pragma mark SA_OAuthTwitterControllerDelegate
 - (void) OAuthTwitterController: (SA_OAuthTwitterController *) controller authenticatedWithUsername: (NSString *) username {
 	NSLog(@"Authenicated for %@", username);
+	
+	[_engine getFollowedTimelineSinceID:0 startingAtPage:0 count:0];
 }
 
 - (void) OAuthTwitterControllerFailed: (SA_OAuthTwitterController *) controller {
@@ -214,17 +213,7 @@
 	
 	id allStatus;
 	self.myStatuses = statuses;
-	//NSLog(@"Cuenta de estados: %@", (NSString *)[self.myStatuses count]);
-	//self.tableLinksController.myViewController=self;
-	//self.tableLinksController.statuses = self.myStatuses;
-	//self.tableLinksController = [[TableLinksViewController alloc] initWithNibName:@"TableLinksViewController.xib" bundle:nil];
-	// ...
-	// Pass the selected object to the new view controller.
-	//[self.navigationController pushViewController:self.tableLinksController animated:YES];
-	//[self.tableLinksController release];
-	//	[self presentModalViewController:self.tableLinksController animated:YES];
-	//NSLog(self.tableLinksController.statuses);
-		NSEnumerator *a = [self.myStatuses objectEnumerator];
+	NSEnumerator *a = [self.myStatuses objectEnumerator];
 	 while (allStatus = [a nextObject]) {
 	 
 		 NSDictionary *status=allStatus;	
