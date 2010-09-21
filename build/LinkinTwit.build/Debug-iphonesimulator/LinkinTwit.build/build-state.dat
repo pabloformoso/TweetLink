@@ -1,0 +1,1008 @@
+TLinkinTwit
+v7
+r0
+t306754253.719856
+cCheck dependencies
+cProcessInfoPlistFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist LinkinTwit-Info.plist
+cCompileXIB /Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+cCompileXIB /Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/LinkinTwit.app/jQueryInject.txt "Twitter+OAuth/Libraries & Headers/jQueryInject.txt"
+cCpResource build/Debug-iphonesimulator/LinkinTwit.app/jQueryInjectLandscape.txt "Twitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt"
+cCpResource build/Debug-iphonesimulator/LinkinTwit.app/twitter_load.png Twitter+OAuth/SAOAuthTwitterEngine/twitter_load.png
+cProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch.gch LinkinTwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o /Users/nano/Proyectos/LinkinTwit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterEngine.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSData+Base64.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSString+UUID.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterController.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterEngine.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit normal i386
+cGenerateDSYMFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+cTouch /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C8C305C0000000000000110
+t1284255836
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2/libxml/xmlreader.h
+c000000004C5A4D3F0000000000003107
+t1280986431
+s12551
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libxml2.dylib
+c000000004C5A4D400000000000122A80
+t1280986432
+s1190528
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.h
+c000000004C98671F00000000000001F1
+t1285056287
+s497
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m
+c000000004C98671F0000000000000ABE
+t1285056287
+s2750
+i"LinkinTwitAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.h
+c000000004C986BA600000000000001D5
+t1285057446
+s469
+i<UIKit/UIKit.h>
+i"SA_OAuthTwitterController.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m
+c000000004C987A9C00000000000021DF
+t1285061276
+s8671
+i"RootViewController.h"
+i"SA_OAuthTwitterEngine.h"
+
+N/Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch
+c000000004C98671F0000000000000146
+t1285056287
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+c000000004C98671F0000000000006000
+t1285056287
+s24576
+
+N/Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+c000000004C98671F0000000000004455
+t1285056287
+s17493
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/NSMutableURLRequest+Parameters.h
+c000000004C90ABC300000000000005AB
+t1284549571
+s1451
+i<Foundation/Foundation.h>
+i"OARequestParameter.h"
+i"NSURL+Base.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/NSString+URLEncoding.h
+c000000004C90ABC3000000000000055D
+t1284549571
+s1373
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/NSURL+Base.h
+c000000004C90ABC30000000000000540
+t1284549571
+s1344
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAConsumer.h
+c000000004C90ABC300000000000005CF
+t1284549571
+s1487
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OADataFetcher.h
+c000000004C90ABC300000000000006D6
+t1284549571
+s1750
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+i"OAServiceTicket.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+c000000004C90ABC30000000000000573
+t1284549571
+s1395
+i<Foundation/Foundation.h>
+i"OASignatureProviding.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAMutableURLRequest.h
+c000000004C90ABC300000000000008EF
+t1284549571
+s2287
+i<Foundation/Foundation.h>
+i"OAConsumer.h"
+i"OAToken.h"
+i"OAHMAC_SHA1SignatureProvider.h"
+i"OASignatureProviding.h"
+i"NSMutableURLRequest+Parameters.h"
+i"NSURL+Base.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OARequestParameter.h
+c000000004C90ABC300000000000006B5
+t1284549571
+s1717
+i<Foundation/Foundation.h>
+i"NSString+URLEncoding.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAServiceTicket.h
+c000000004C90ABC30000000000000695
+t1284549571
+s1685
+i<Foundation/Foundation.h>
+i"OAMutableURLRequest.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OASignatureProviding.h
+c000000004C90ABC3000000000000057A
+t1284549571
+s1402
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/OAuthConsumer/OAToken.h
+c000000004C90ABC30000000000000753
+t1284549571
+s1875
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/jQueryInject.txt
+c000000004C90ABC300000000000007A0
+t1284549571
+s1952
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt
+c000000004C90ABC300000000000007A0
+t1284549571
+s1952
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/libOAuth.a
+c000000004C90ABC3000000000008DF6C
+t1284549571
+s581484
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.h
+c000000004C90ABC3000000000000213C
+t1284549571
+s8508
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterEngineDelegate.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m
+c000000004C90ABC3000000000000D21D
+t1284549571
+s53789
+i"MGTwitterEngine.h"
+i"MGTwitterHTTPURLConnection.h"
+i"NSData+Base64.h"
+i"MGTwitterStatusesYAJLParser.h"
+i"MGTwitterMessagesYAJLParser.h"
+i"MGTwitterUsersYAJLParser.h"
+i"MGTwitterMiscYAJLParser.h"
+i"MGTwitterSearchYAJLParser.h"
+i"MGTwitterStatusesLibXMLParser.h"
+i"MGTwitterMessagesLibXMLParser.h"
+i"MGTwitterUsersLibXMLParser.h"
+i"MGTwitterMiscLibXMLParser.h"
+i"MGTwitterStatusesParser.h"
+i"MGTwitterUsersParser.h"
+i"MGTwitterMessagesParser.h"
+i"MGTwitterMiscParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngineDelegate.h
+c000000004C90ABC300000000000008CF
+t1284549571
+s2255
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngineGlobalHeader.h
+c000000004C90ABC300000000000007EC
+t1284549571
+s2028
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.h
+c000000004C90ABC30000000000000485
+t1284549571
+s1157
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+c000000004C90ABC3000000000000065A
+t1284549571
+s1626
+i"MGTwitterHTTPURLConnection.h"
+i"NSString+UUID.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.h
+c000000004C90ABC30000000000000600
+t1284549571
+s1536
+i"MGTwitterEngineGlobalHeader.h"
+i<libxml/xmlreader.h>
+i"MGTwitterParserDelegate.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m
+c000000004C90ABC30000000000002684
+t1284549571
+s9860
+i"MGTwitterLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.h
+c000000004C90ABC3000000000000012A
+t1284549571
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m
+c000000004C90ABC30000000000000CD2
+t1284549571
+s3282
+i"MGTwitterMessagesLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.h
+c000000004C90ABC30000000000000122
+t1284549571
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m
+c000000004C90ABC3000000000000076B
+t1284549571
+s1899
+i"MGTwitterMessagesParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.h
+c000000004C90ABC30000000000000122
+t1284549571
+s290
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m
+c000000004C90ABC30000000000000527
+t1284549571
+s1319
+i"MGTwitterMiscLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.h
+c000000004C90ABC30000000000000130
+t1284549571
+s304
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m
+c000000004C90ABC3000000000000056A
+t1284549571
+s1386
+i"MGTwitterMiscParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterParserDelegate.h
+c000000004C90ABC30000000000000330
+t1284549571
+s816
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterRequestTypes.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterRequestTypes.h
+c000000004C90ABC3000000000000105F
+t1284549571
+s4191
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.h
+c000000004C90ABC3000000000000012A
+t1284549571
+s298
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m
+c000000004C90ABC300000000000003A3
+t1284549571
+s931
+i"MGTwitterStatusesLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.h
+c000000004C90ABC30000000000000118
+t1284549571
+s280
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m
+c000000004C90ABC3000000000000084B
+t1284549571
+s2123
+i"MGTwitterStatusesParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.h
+c000000004C90ABC30000000000000124
+t1284549571
+s292
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m
+c000000004C90ABC30000000000000392
+t1284549571
+s914
+i"MGTwitterUsersLibXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.h
+c000000004C90ABC3000000000000011C
+t1284549571
+s284
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterStatusesParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m
+c000000004C90ABC300000000000006F2
+t1284549571
+s1778
+i"MGTwitterUsersParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.h
+c000000004C90ABC30000000000000459
+t1284549571
+s1113
+i"MGTwitterEngineGlobalHeader.h"
+i"MGTwitterParserDelegate.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m
+c000000004C90ABC3000000000000131F
+t1284549571
+s4895
+i"MGTwitterXMLParser.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.h
+c000000004C90ABC30000000000000602
+t1284549571
+s1538
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m
+c000000004C90ABC30000000000000F65
+t1284549571
+s3941
+i"NSData+Base64.h"
+i<Foundation/Foundation.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.h
+c000000004C90ABC300000000000000ED
+t1284549571
+s237
+i"MGTwitterEngineGlobalHeader.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m
+c000000004C90ABC300000000000001E3
+t1284549571
+s483
+i"NSString+UUID.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.h
+c000000004C90ABC3000000000000077A
+t1284549571
+s1914
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m
+c000000004C90ABC3000000000000397A
+t1284549571
+s14714
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"SA_OAuthTwitterEngine.h"
+i"SA_OAuthTwitterController.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.h
+c000000004C90ABC3000000000000073C
+t1284549571
+s1852
+i"MGTwitterEngine.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m
+c000000004C90ABC300000000000039BA
+t1284549571
+s14778
+i"MGTwitterHTTPURLConnection.h"
+i"OAConsumer.h"
+i"OAMutableURLRequest.h"
+i"OADataFetcher.h"
+i"SA_OAuthTwitterEngine.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/twitter_load.png
+c000000004C90ABC30000000000009155
+t1284549571
+s37205
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+t1285061277
+s340
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM
+t1285061277
+s102
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist
+t1285056304
+s603
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+t1285061277
+s195492
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/MainWindow.nib
+t1285056305
+s2459
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/PkgInfo
+t1285056304
+s8
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/RootViewController.nib
+t1285056305
+s1518
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/jQueryInject.txt
+t1285057185
+s1952
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/jQueryInjectLandscape.txt
+t1285057185
+s1952
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/twitter_load.png
+t1285057185
+s37205
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwit.LinkFileList
+c000000004C986AA10000000000000A47
+t1285057185
+s2631
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o
+t1285057449
+s49616
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterEngine.o
+t1285057187
+s99708
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o
+t1285057187
+s17008
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterLibXMLParser.o
+t1285057187
+s32928
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o
+t1285057187
+s15540
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesParser.o
+t1285057187
+s13220
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o
+t1285057187
+s11996
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscParser.o
+t1285057187
+s12728
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o
+t1285057187
+s10760
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesParser.o
+t1285057187
+s13884
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o
+t1285057187
+s10708
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersParser.o
+t1285057187
+s12960
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterXMLParser.o
+t1285057187
+s23272
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSData+Base64.o
+t1285057187
+s11816
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSString+UUID.o
+t1285057187
+s6704
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o
+t1285061276
+s55012
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterController.o
+t1285057188
+s83256
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterEngine.o
+t1285057188
+s46668
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o
+t1285057186
+s6292
+
+N/Users/nano/Proyectos/LinkinTwit/main.m
+c000000004C98671F0000000000000181
+t1285056287
+s385
+i<UIKit/UIKit.h>
+
+N/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch
+t1285056305
+s15211536
+
+N/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch.gch
+t1285057186
+s15211536
+
+NLinkinTwit-Info.plist
+c000000004C98671F000000000000038D
+t1285056287
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306754253#306754253#0(0"0(0#1#0"8957856416#0"0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306750249.365614
+e306750249.537383
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o
+x/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m306750249#306750249#0(0"0(0#0#64"/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m8883995232#2056"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterEngine.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749986.799839
+e306749987.230317
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterEngine.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m306749986#306749987#0(0"0(0#0#80"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m8920594336#2066"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterEngine.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterEngine.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749986.938225
+e306749987.019023
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m306749986#306749987#0(0"0(0#0#91"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m8906403360#2088"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterHTTPURLConnection.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterHTTPURLConnection.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.019124
+e306749987.236422
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterLibXMLParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m306749987#306749987#0(0"0(0#0#86"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m8942494848#2078"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterLibXMLParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterLibXMLParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.230423
+e306749987.337832
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m306749987#306749987#0(0"0(0#0#94"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m8932936800#2094"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesLibXMLParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.236529
+e306749987.301058
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m: In function '-[MGTwitterMessagesParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: (Messages without a matching method signature
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: will be assumed to return 'id' and accept
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: '...' as arguments.)
+lSLF07#2@96"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m306749987#306749987#0(795"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m: In function '-[MGTwitterMessagesParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: (Messages without a matching method signature/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: will be assumed to return 'id' and accept/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m:45: warning: '...' as arguments.)2(22@96"'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306749987#181#199#0(6@88"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m306242371#45#0#45#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306749987#380#148#0(6@88"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m306242371#45#0#45#0#0"0(0#0#88"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m8921334912#2082"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMessagesParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMessagesParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.301165
+e306749987.442110
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m306749987#306749987#0(0"0(0#0#90"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m8830879776#2086"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscLibXMLParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscLibXMLParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.338059
+e306749987.414855
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m: In function '-[MGTwitterMiscParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: (Messages without a matching method signature
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: will be assumed to return 'id' and accept
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: '...' as arguments.)
+lSLF07#2@92"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m306749987#306749987#0(771"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m: In function '-[MGTwitterMiscParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: (Messages without a matching method signature/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: will be assumed to return 'id' and accept/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m:39: warning: '...' as arguments.)2(22@96"'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306749987#173#195#0(6@84"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m306242371#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306749987#368#144#0(6@84"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m306242371#39#0#39#0#0"0(0#0#84"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m8631344800#2074"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterMiscParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterMiscParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.415121
+e306749987.584999
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m306749987#306749987#0(0"0(0#0#94"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m8737757856#2094"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesLibXMLParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.442217
+e306749987.541748
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m: In function '-[MGTwitterStatusesParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: 'MGTwitterXMLParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: (Messages without a matching method signature
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: will be assumed to return 'id' and accept
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: '...' as arguments.)
+lSLF07#2@96"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m306749987#306749987#0(790"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m: In function '-[MGTwitterStatusesParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: 'MGTwitterXMLParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: (Messages without a matching method signature/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: will be assumed to return 'id' and accept/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m:55: warning: '...' as arguments.)2(22@91"'MGTwitterXMLParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306749987#181#194#0(6@88"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m306242371#55#0#55#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306749987#375#148#0(6@88"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m306242371#55#0#55#0#0"0(0#0#88"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m8737199104#2082"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterStatusesParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterStatusesParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.541847
+e306749987.691245
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m306749987#306749987#0(0"0(0#0#91"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m8949134432#2088"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersLibXMLParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersLibXMLParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.585105
+e306749987.682766
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m: In function '-[MGTwitterUsersParser parser:didEndElement:namespaceURI:qualifiedName:]':
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: (Messages without a matching method signature
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: will be assumed to return 'id' and accept
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: '...' as arguments.)
+lSLF07#2@93"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m306749987#306749987#0(777"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m: In function '-[MGTwitterUsersParser parser:didEndElement:namespaceURI:qualifiedName:]':/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: 'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: (Messages without a matching method signature/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: will be assumed to return 'id' and accept/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m:45: warning: '...' as arguments.)2(22@96"'MGTwitterStatusesParser' may not respond to '-parser:didEndElement:namespaceURI:qualifiedName:'306749987#175#196#0(6@85"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m306242371#45#0#45#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)306749987#371#145#0(6@85"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m306242371#45#0#45#0#0"0(0#0#85"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m8927251008#2076"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterUsersParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterUsersParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterXMLParser.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.682953
+e306749987.820758
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterXMLParser.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m: In function '-[MGTwitterXMLParser initWithXML:delegate:connectionIdentifier:requestType:responseType:]':
+o/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m:45: warning: class 'MGTwitterXMLParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@91"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m306749987#306749987#0(368"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m: In function '-[MGTwitterXMLParser initWithXML:delegate:connectionIdentifier:requestType:responseType:]':/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m:45: warning: class 'MGTwitterXMLParser' does not implement the 'NSXMLParserDelegate' protocol1(22@80"Class 'MGTwitterXMLParser' does not implement the 'NSXMLParserDelegate' protocol306749987#190#178#0(6@83"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m306242371#45#0#45#0#45"class '*' does not implement the '*' protocol0(0#0#83"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m8949857664#2072"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/MGTwitterXMLParser.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/MGTwitterXMLParser.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSData+Base64.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.691339
+e306749987.806492
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSData+Base64.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m306749987#306749987#0(0"0(0#0#78"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m8922946080#2062"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSData+Base64.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSData+Base64.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSString+UUID.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.806621
+e306749987.914109
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSString+UUID.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m306749987#306749987#0(0"0(0#0#78"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m8818764000#2062"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/NSString+UUID.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306754076.636686
+e306754076.986785
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o
+x/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m:93: warning: format not a string literal and no format arguments
+o/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m: In function '-[RootViewController viewDidAppear:]':
+o/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m:259: warning: unused variable 'timeline'
+lSLF07#2@69"Compile /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m306754076#306754076#0(478"/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m:93: warning: format not a string literal and no format arguments/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m: In function '-[RootViewController viewDidAppear:]':/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m:259: warning: unused variable 'timeline'2(22@51"Format not a string literal and no format arguments306754076#133#127#0(6@61"/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m306754076#93#0#93#0#51"format not a string literal and no format arguments0(22@26"Unused variable 'timeline'306754076#375#103#0(6@61"/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m306754076#259#0#259#0#19"unused variable '*'0(0#0#61"/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m8945568160#2050"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterController.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.820867
+e306749988.037207
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterController.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m306749987#306749988#0(0"0(0#0#95"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m8737735072#2091"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterController.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterController.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterEngine.o /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749987.914212
+e306749988.050393
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterEngine.o
+x/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m306749987#306749988#0(0"0(0#0#91"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m8661491200#2083"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/SA_OAuthTwitterEngine.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o /Users/nano/Proyectos/LinkinTwit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749986.724712
+e306749986.799732
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o
+x/Users/nano/Proyectos/LinkinTwit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/nano/Proyectos/LinkinTwit/main.m306749986#306749986#0(0"0(0#0#39"/Users/nano/Proyectos/LinkinTwit/main.m8943723968#2014"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/main.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+s306749104.616481
+e306749105.093159
+r1
+xCompileXIB
+x/Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306749104#306749105#0(0"0(0#0#47"/Users/nano/Proyectos/LinkinTwit/MainWindow.xib8909054720#555"    cd /Users/nano/Proyectos/LinkinTwit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/MainWindow.nib /Users/nano/Proyectos/LinkinTwit/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+s306749104.617219
+e306749105.078891
+r1
+xCompileXIB
+x/Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib306749104#306749105#0(0"0(0#0#55"/Users/nano/Proyectos/LinkinTwit/RootViewController.xib8905596768#571"    cd /Users/nano/Proyectos/LinkinTwit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/RootViewController.nib /Users/nano/Proyectos/LinkinTwit/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/LinkinTwit.app/jQueryInject.txt "Twitter+OAuth/Libraries & Headers/jQueryInject.txt"
+s306749985.823108
+e306749985.850353
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LinkinTwit.app/jQueryInject.txt
+xTwitter+OAuth/Libraries & Headers/jQueryInject.txt
+lSLF07#2@55"Copy Twitter+OAuth/Libraries & Headers/jQueryInject.txt306749985#306749985#0(0"0(0#0#83"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/jQueryInject.txt8887640960#481"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/jQueryInject.txt" /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app0#
+
+CCpResource build/Debug-iphonesimulator/LinkinTwit.app/jQueryInjectLandscape.txt "Twitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt"
+s306749985.823956
+e306749985.850491
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LinkinTwit.app/jQueryInjectLandscape.txt
+xTwitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt
+lSLF07#2@64"Copy Twitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt306749985#306749985#0(0"0(0#0#92"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt8877827936#490"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers/jQueryInjectLandscape.txt" /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app0#
+
+CCpResource build/Debug-iphonesimulator/LinkinTwit.app/twitter_load.png Twitter+OAuth/SAOAuthTwitterEngine/twitter_load.png
+s306749985.824631
+e306749985.851117
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/LinkinTwit.app/twitter_load.png
+xTwitter+OAuth/SAOAuthTwitterEngine/twitter_load.png
+lSLF07#2@56"Copy Twitter+OAuth/SAOAuthTwitterEngine/twitter_load.png306749985#306749985#0(0"0(0#0#84"/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/twitter_load.png8830901824#480"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/SAOAuthTwitterEngine/twitter_load.png /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app0#
+
+CGenerateDSYMFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+s306754077.035116
+e306754077.065942
+r1
+xGenerateDSYMFile
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/LinkinTwit.app.dSYM build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit306754077#306754077#0(0"0(0#0#86"/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit8918671264#374"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit -o /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM0#
+
+CLd /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit normal i386
+s306754076.986877
+e306754077.035005
+r1
+xLd
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+xnormal
+xi386
+lSLF07#2@91"Link /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit306754076#306754077#0(0"0(0#0#0"8920868544#971"    cd /Users/nano/Proyectos/LinkinTwit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator "-L/Users/nano/Proyectos/LinkinTwit/Twitter+OAuth/Libraries & Headers" -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -filelist /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lOAuth -lxml2 -o /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit0#
+
+CProcessInfoPlistFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist LinkinTwit-Info.plist
+s306749104.610222
+e306749104.616394
+r1
+xProcessInfoPlistFile
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist
+xLinkinTwit-Info.plist
+lSLF07#2@29"Process LinkinTwit-Info.plist306749104#306749104#0(0"0(0#0#54"/Users/nano/Proyectos/LinkinTwit/LinkinTwit-Info.plist8923753344#470"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LinkinTwit-Info.plist -genpkginfo /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist0#
+
+CProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch LinkinTwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749105.093275
+e306749105.924108
+r1
+xProcessPCH
+x/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch
+xLinkinTwit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile LinkinTwit_Prefix.pch306749105#306749105#0(0"0(0#0#54"/Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch8947576800#1803"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -c /Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch -o /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch.gch LinkinTwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749985.851214
+e306749986.724400
+r1
+xProcessPCH
+x/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch.gch
+xLinkinTwit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile LinkinTwit_Prefix.pch306749985#306749986#0(0"0(0#0#54"/Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch8737294400#1909"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/libxml2 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -c /Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch -o /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-gsfazsznfvuqvuddxarijbldonlr/LinkinTwit_Prefix.pch.gch0#
+
+CTouch /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+s306754077.066030
+e306754077.068594
+r1
+xTouch
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+lSLF07#2@81"Touch /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app306754077#306754077#0(0"0(0#0#0"8914534432#269"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app0#
+

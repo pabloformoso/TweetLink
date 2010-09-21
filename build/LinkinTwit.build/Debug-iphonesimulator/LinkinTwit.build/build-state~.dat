@@ -1,0 +1,262 @@
+TLinkinTwit
+v7
+r0
+t306749106.186025
+cCheck dependencies
+cProcessInfoPlistFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist LinkinTwit-Info.plist
+cCompileXIB /Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+cCompileXIB /Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+cProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch LinkinTwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o /Users/nano/Proyectos/LinkinTwit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit normal i386
+cGenerateDSYMFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+cTouch /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C8C305C0000000000000110
+t1284255836
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.h
+c000000004C98671F00000000000001F1
+t1285056287
+s497
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m
+c000000004C98671F0000000000000ABE
+t1285056287
+s2750
+i"LinkinTwitAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.h
+c000000004C98671F0000000000000103
+t1285056287
+s259
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m
+c000000004C98671F00000000000010DB
+t1285056287
+s4315
+i"RootViewController.h"
+
+N/Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch
+c000000004C98671F0000000000000146
+t1285056287
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+c000000004C98671F0000000000006000
+t1285056287
+s24576
+
+N/Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+c000000004C98671F0000000000004455
+t1285056287
+s17493
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+t1285056306
+s238
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM
+t1285056306
+s102
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist
+t1285056304
+s603
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+t1285056306
+s18072
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/MainWindow.nib
+t1285056305
+s2459
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/PkgInfo
+t1285056304
+s8
+
+N/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/RootViewController.nib
+t1285056305
+s1518
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwit.LinkFileList
+c000000004C986730000000000000018D
+t1285056304
+s397
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o
+t1285056306
+s49616
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o
+t1285056306
+s38100
+
+N/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o
+t1285056305
+s6292
+
+N/Users/nano/Proyectos/LinkinTwit/main.m
+c000000004C98671F0000000000000181
+t1285056287
+s385
+i<UIKit/UIKit.h>
+
+N/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch
+t1285056305
+s15211536
+
+NLinkinTwit-Info.plist
+c000000004C98671F000000000000038D
+t1285056287
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306749104#306749104#0(0"0(0#1#0"8941700096#0"0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749105.926121
+e306749106.013508
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o
+x/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m306749105#306749106#0(0"0(0#0#64"/Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m8919017216#1950"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Classes/LinkinTwitAppDelegate.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwitAppDelegate.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749105.982104
+e306749106.047318
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o
+x/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m306749105#306749106#0(0"0(0#0#61"/Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m8915449152#1944"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/Classes/RootViewController.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o /Users/nano/Proyectos/LinkinTwit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749105.924365
+e306749105.981997
+r1
+xCompileC
+xbuild/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o
+x/Users/nano/Proyectos/LinkinTwit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/nano/Proyectos/LinkinTwit/main.m306749105#306749105#0(0"0(0#0#39"/Users/nano/Proyectos/LinkinTwit/main.m8928436480#1908"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -include /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch -c /Users/nano/Proyectos/LinkinTwit/main.m -o /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+s306749104.616481
+e306749105.093159
+r1
+xCompileXIB
+x/Users/nano/Proyectos/LinkinTwit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306749104#306749105#0(0"0(0#0#47"/Users/nano/Proyectos/LinkinTwit/MainWindow.xib8909054720#555"    cd /Users/nano/Proyectos/LinkinTwit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/MainWindow.nib /Users/nano/Proyectos/LinkinTwit/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+s306749104.617219
+e306749105.078891
+r1
+xCompileXIB
+x/Users/nano/Proyectos/LinkinTwit/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib306749104#306749105#0(0"0(0#0#55"/Users/nano/Proyectos/LinkinTwit/RootViewController.xib8905596768#571"    cd /Users/nano/Proyectos/LinkinTwit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/RootViewController.nib /Users/nano/Proyectos/LinkinTwit/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+s306749106.156627
+e306749106.177618
+r1
+xGenerateDSYMFile
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/LinkinTwit.app.dSYM build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit306749106#306749106#0(0"0(0#0#86"/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit8631073472#374"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit -o /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app.dSYM0#
+
+CLd /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit normal i386
+s306749106.047413
+e306749106.156397
+r1
+xLd
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit
+xnormal
+xi386
+lSLF07#2@91"Link /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit306749106#306749106#0(0"0(0#0#0"8908256032#885"    cd /Users/nano/Proyectos/LinkinTwit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -filelist /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/Objects-normal/i386/LinkinTwit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/LinkinTwit0#
+
+CProcessInfoPlistFile /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist LinkinTwit-Info.plist
+s306749104.610222
+e306749104.616394
+r1
+xProcessInfoPlistFile
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist
+xLinkinTwit-Info.plist
+lSLF07#2@29"Process LinkinTwit-Info.plist306749104#306749104#0(0"0(0#0#54"/Users/nano/Proyectos/LinkinTwit/LinkinTwit-Info.plist8923753344#470"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LinkinTwit-Info.plist -genpkginfo /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app/Info.plist0#
+
+CProcessPCH /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch LinkinTwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306749105.093275
+e306749105.924108
+r1
+xProcessPCH
+x/var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch
+xLinkinTwit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile LinkinTwit_Prefix.pch306749105#306749105#0(0"0(0#0#54"/Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch8947576800#1803"    cd /Users/nano/Proyectos/LinkinTwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-generated-files.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-own-target-headers.hmap -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-all-target-headers.hmap -iquote /Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/LinkinTwit-project-headers.hmap -F/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator -I/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/include -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources/i386 -I/Users/nano/Proyectos/LinkinTwit/build/LinkinTwit.build/Debug-iphonesimulator/LinkinTwit.build/DerivedSources -c /Users/nano/Proyectos/LinkinTwit/LinkinTwit_Prefix.pch -o /var/folders/Ug/Ug6zG+i-F-0QayB1A6jp5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkinTwit_Prefix-egmuzwjbggvbxgdtnlqznwjzphhl/LinkinTwit_Prefix.pch.gch0#
+
+CTouch /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+s306749106.177704
+e306749106.185980
+r1
+xTouch
+x/Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app
+lSLF07#2@81"Touch /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app306749106#306749106#0(0"0(0#0#0"8819383456#269"    cd /Users/nano/Proyectos/LinkinTwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nano/Proyectos/LinkinTwit/build/Debug-iphonesimulator/LinkinTwit.app0#
+
